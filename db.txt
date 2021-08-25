@@ -1,0 +1,10 @@
+Nome Tabella : AutoDB
+
+
+Targa(PRIMARY KEY) : VARCHAR(14) - NOT NULL - UNIQUE 
+Modello : VARCHAR(50) - NOT NULL
+Brand : VARCHAR(10) - NOT NULL
+Colore : VARCHAR(15) - NOT NULL
+Anno: YEAR - NOT NULL
+Telaio: VARCHAR(10) - NOT NULL 
+Prezzo: FLOAT(8,2) - NOT NULL
